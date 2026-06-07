@@ -1,5 +1,5 @@
-/*1. Construa um algoritmo que receba três números, calcule e mostre a multiplicação desses
-números.*/
+/*1. Construa um algoritmo que receba tres numeros, calcule e mostre a multiplicacao desses
+numeros.*/
 
 #include <stdio.h>
 #include<stdlib.h>
